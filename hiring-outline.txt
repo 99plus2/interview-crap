@@ -1,0 +1,152 @@
+1 - Introduction
+    -Explain why hiring practices are so bad
+        -Monoculture is bad
+        -Many companies don't advertise
+        -Process is so horribly broken, random hiring is better
+            -My story of working at a company that basically hired random people
+                -It worked fine
+                -The team was very balanced
+    -Explain briefly that personality is the best indicator is a good employee
+        -Balance is important, personality holes is bad.
+
+2 - People and their personalities
+    -Describe how all people fit into two categories (introvert / extrovert)
+    -Explain traits of each category
+    -The two personalities are two sides of a spectrum
+        -Most people are in the middle
+        -Geniuses are at the extremes
+        -Examples of extremes on each end (Sara Palin, Kanye West)
+    -Correlation between jobs and personality
+        -Extroverts make great Managers, Coaches, Therapists, Salesmen, etc.
+        -Introvers make great Mathemeticians, Engineers, Chefs, Musicians, etc.
+    -Nx developer and 1/x deelopers
+    -Nx manager and 1/x manager
+    -Great teams exist when personalities are balanced
+    -Examples of balanced teams
+
+3 - Types of software development teams
+    -Large company model (Waterfall)
+        -Cubicle farm (hire 50 devs)
+        -Developers and managers need both hard and soft skills
+            -introverts are forced to talk and extroverts are forced to listen
+        -Very predictable
+        -Bad for innovation
+        -Large, monolithic, authoritatian process (extrinsic motivation)
+        -Great if you have the money
+    -Small company model (Agile)
+        -Rockstar team (hire 3 or 4 devs)
+        -small, permissive, results-based process (intrinsic motivation)
+        -Managers focus on managing, devs focus on developing
+        -Very risky
+        -Good for innovation
+        -The only option if you don't have much money
+
+4 - How to attract developers and managers to your team
+    -Waterfall
+        -Tradional HR
+            -Hasn't changed in 50 years
+    -Agile
+        -Luck plays a large role, don't sweat the details
+        -You want extreme people on the personality bell ends
+        -You need to focus your efforts by appealing to appropriate personality traits
+        -Managers
+            -These people are relatively easy to find
+            -Offer the money and they will come to you
+            -Love letters, phone calls, drops by the office, research your company
+            -Extrinsic motivation
+            -You win them with the company, not the product
+                -Promise growth, promotions, exciting atmosphere
+        -Developers
+            -You will have to come to them
+            -Look for people who have created lots of things
+            -Don't expect them to be great at selling themselves (nerds)
+            -You win them with the product, not the company
+            -Scratching an itch > contributing to OSS
+                -Contributing to OSS is good, but its mostly a social achievement
+            -Intrinsic motivation
+                -Creative control, freedom to work on what interests them
+            -Job ads (Don't rely on network alone)
+                -Introverts don't have many people in their networks
+                -Don't say "rockstar developer" (Dunning-Kruger Effect)
+                -Give a prompt for applying.
+
+5 - The interview
+    -It would be nice to hire people with perfect soft skills and great hard skills
+        -Not very many of those people who are looking for work
+    -Managers
+        -They should be likable
+        -Provide balance to an otherwise nerdy team. Balance is key.
+        -Have great communication skills (soft skills)
+        -Confident in their opinions and behavior
+            -People skills are objective
+        -Not confident in their creations
+            -Micro-managing is bad
+            -Managers don't create anything anyways. They should manage full time.
+    -Developers
+        -Look past soft skill deficiencies
+        -Will this person be productive? Managers should handle the rest.
+        -Confident in what they create
+            -Should stand behind any production-bound code with upmost confidence
+            -Should be proud of their code, takes time to do it right, keeps it clean
+                -Great chefs are the same way, obsessed with presentation and cleaniness
+        -Not confident in their opinions
+            -Tech world is grey, not black and white
+            -Should have a deep understanding of tech concepts
+            -Should have no problem saying "I dont know"
+            -You don't want to hire bullshitters
+
+6 - The coding challenge
+    -Should be enough to prove they will be productive, don't go overboard.
+    -Must do this, but you must do it right
+    -Expect them to write code as if they would on the job
+        -Do not set a time limit
+        -Let them use *any* resource
+    -Willing and able to complete tedius tasks != great developer
+    -Two approaches (both are acceptable)
+        -Micro Challenge
+            -Minute scale
+            -Can be done face-to-face or via etherpad
+            -Short problems, 3 or 4 lines of code
+            -every day programming problems
+                -reverse a string, is this string a palendrome?
+        -Macro challenge
+            -Day scale
+            -Projects, not just functions
+            -Give them explicit instructions and let them work how they work
+                -introverts like to work alone (at least partially)
+
+7 - Retaining great developers
+    -Respectful enviornment == productive environment
+    -Managers and Developers naturally don't get along
+        -Opposite personalities
+        -Office parties help
+    -Understand personalities
+    -Let devs work on what they want
+        -Even if just to humor them
+
+8 - Conclusions
+
+
+
+
+
+
+
+Questions:
+    -What makes a good employee at your company?
+        -Do you see any correlation between developer personality and productivity?
+    -What do you primarily look for when screening resumes?
+    -What is your stragety for building a great software team?
+    -How is the hiring process for managers different from hiring developers?
+    -What personality traits do successful managers have?
+    -How does your interview process account for the differences in how people work?
+
+
+
+
+
+
+
+
+
+
